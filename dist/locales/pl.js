@@ -34,7 +34,7 @@ const localization = {
     dayViewHeaderFormat: { month: 'long', year: 'numeric' },
     locale: 'pl',
     startOfTheWeek: 1,
-    hourCycle: 'h24',
+    hourCycle: 'h23',
     dateFormats: {
         LT: 'HH:mm',
         LTS: 'HH:mm:ss',
